@@ -12,7 +12,7 @@ class Saple1
 	
 	public boolean method2()
 	{
-		int a=100;
+		int a=1000;
 		int b=20;
 		if(a<b)
 		{
