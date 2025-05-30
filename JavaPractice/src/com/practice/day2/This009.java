@@ -5,7 +5,7 @@ package com.practice.day2;
 class Mass
 {
 	
-	int a=1111;
+	int a=11112222;
 	
 	void number()
 	{
