@@ -9,6 +9,26 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.automation.vi.base.BaseTest;
 
+
+public class myName
+{
+    private Strin nam="PRAJWAL";
+    int a=123;
+    boolean a=true;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
 public class FileUploadDownloadPage extends BaseTest  {
 
     private WebDriver driver;
