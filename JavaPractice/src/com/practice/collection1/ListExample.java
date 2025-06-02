@@ -9,7 +9,7 @@ public class ListExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String name="Prajwal";
+		String name="Prajwal 12234";
 		 List<String> fruits = new ArrayList<>();
 		  fruits.add("Apple");
 		  fruits.add("Banana");
