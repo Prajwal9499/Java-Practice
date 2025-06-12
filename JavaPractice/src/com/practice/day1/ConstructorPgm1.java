@@ -34,19 +34,6 @@ public class ConstructorPgm1 {
 //		 System.out.println("agr is :"+age1);
 //		 System.out.println("gmail is :"+gmail1);
 //		 System.out.println("phone number is :"+phNuumber1);
-//	 }
-	 
-	 
-
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
+//	 }	 
 
 }
