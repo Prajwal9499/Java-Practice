@@ -8,7 +8,6 @@ package com.practice.day2;
 		 System.out.println("ABCD");
 	 }
 }
-
  class A2 extends A1
  {
 	 void add()
@@ -23,17 +22,6 @@ package com.practice.day2;
 	 } 
  }
 
-
-
-
-
-
-
-
-
-
-
-
 public class Super009 {
 
 	public static void main(String[] args) {
@@ -44,5 +32,4 @@ public class Super009 {
 		obj.add1();
 		//ojb2.add();
 	}
-
 }
