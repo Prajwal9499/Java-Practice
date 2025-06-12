@@ -9,7 +9,6 @@ package com.practice.day2;
 		System.out.println("Parent");
 	}
 }
-
  class B extends A
 {
 	int a=30;
@@ -24,13 +23,10 @@ package com.practice.day2;
 		System.out.println("Testingggggg");
 	}
 }
- 
  class C extends B
  {
 	 int a=50;
  }
-
-
 
 public class Super001 {
 
