@@ -28,13 +28,10 @@ package com.practice.day2;
  }
 
 public class Super001 {
-
 	public static void main(String[] args) {
-		
 		C obj=new C();
 		System.out.println(obj.a);  //50
 		obj.dis(); 
 		obj.praj();
 	}
-
 }
