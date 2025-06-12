@@ -1,6 +1,5 @@
 package com.practice.day2;
 
-
  class A
 {
 	int a=20;
